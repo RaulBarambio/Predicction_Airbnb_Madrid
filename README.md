@@ -22,4 +22,3 @@ Archivo | Descripción
 ### 2.2 - Predicción
 
 * 2.2.1 - Entrenar un modelo capaz de predecir el precio de alquiler diario de una propiedad en Airbnb. Además de las métricas obtenidas, se valorará la justificación del proceso de construcción del modelo (por ejemplo: variables utilizadas/descartadas, métrica/s de evaluación, selección de modelo/s, etc.), la creatividad en la construcción de nuevas variables (utilizando los datos de geolocalización y/o texto no estructurado) y el uso de diferentes técnicas predictivas.
-
